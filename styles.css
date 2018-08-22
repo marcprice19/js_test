@@ -1,0 +1,13 @@
+#test {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+#passed {
+    color: #00ff00;
+}
+
+#failed {
+    color: #f00;
+}
